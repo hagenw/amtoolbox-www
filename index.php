@@ -28,7 +28,16 @@ software, released under the GNU General Public License (GPLv3).<br>
 <H2><A NAME="documentation">Documentation</A></H2>
 
 You can read the <a href="doc/">documentation included in the M-files online</a><p>
-     A Design guideline can be found <a href="doc/design.pdf">here.</a><p>
+
+<H2><a name="development">Development</a></h2>
+
+     The toolbox is in a very early stage of development. If you wish to contribute, please check out:<br>
+<ul>
+<li><a href="http://sourceforge.net/projects/amtoolbox">The development page</a></li>
+<li><a href="doc/design.pdf">The design guide</a></li>
+<li><a href="doc/modulestructure.pdf">The module structure</a></li>
+<li><a href="doc/using-git.pdf">Some notes on Git</a></li>
+</ul>
 
 
    <?require("footer.php");?>
