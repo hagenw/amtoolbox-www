@@ -12,7 +12,8 @@
 The pages linked below are generated from the documentation in the M-files. This is the most complete, and up-to-date description of the Matlab files.<p>
 
 <ul>
-<li><a href="general/Contents.php">toolbox</a> General routines.</li>
+<li><a href="general/Contents.php">general</a> General routines.</li>
+<li><a href="filters/Contents.php">filters</a> Filters.</li>
 <li><a href="examples/Contents.php">demos</a> Demos.</li>
 <li><a href="signals/Contents.php">signals</a> Test signals.</li>
 </ul>
