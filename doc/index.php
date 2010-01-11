@@ -6,7 +6,7 @@
 </head>
 <body>
    <?php ini_set("include_path",".:/home/groups/c/ca/amtoolbox/htdocs/"); ?>
-   <?php require("topnav.php");?>
+   <?php require("../topnav.php");?>
 
 <h2>Online documentation</h2>
 The pages linked below are generated from the documentation in the M-files. This is the most complete, and up-to-date description of the Matlab files.<p>
@@ -20,7 +20,7 @@ The pages linked below are generated from the documentation in the M-files. This
 
 The M-file documentation is also available as a <a href="amt.pdf">pdf file.</a><p>
 
-   <?require("footer.php");?>
+   <?require("../footer.php");?>
 
 </body>
 </html>
