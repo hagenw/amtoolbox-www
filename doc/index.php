@@ -19,7 +19,7 @@ The pages linked below are generated from the documentation in the M-files. This
 <li><a href="binaural/Contents.php">binaural</a> Binaural models.</li>
 <li><a href="humandata/Contents.php">human data</a> Human data.</li>
 <li><a href="experiments/Contents.php">experiments</a> Experiments.</li>
-<li><a href="examples/Contents.php">demos</a> Demos.</li>
+<li><a href="demos/Contents.php">demos</a> Demos.</li>
 <li><a href="signals/Contents.php">signals</a> Test signals.</li>
 </ul>
 
