@@ -1,7 +1,7 @@
 <div class="footer" align=center><table>
 <tr valign=middle><td>This project is hosted on</td><td>
 
-<a href="http://sourceforge.net"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=188553&amp;type=4" width="125" height="37" border="0" alt="SourceForge.net Logo" /></a>
+<a href="http://sourceforge.net/projects/amtoolbox"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=290281&amp;type=12" width="120" height="30" alt="Get Auditory Modelling Toolbox at SourceForge.net. Fast, secure and Free Open Source software downloads" /></a>
 
 </td></tr></table>
 </div>

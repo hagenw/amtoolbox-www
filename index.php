@@ -15,6 +15,11 @@
 
    <?require("topnav.php");?>
 
+<table><tr valign=top><td>
+<div class="sidebar">
+   <?php require("/home/groups/a/am/amtoolbox/htdocs/doc/docnav.php");?>
+</div></td><td>
+
 <H2>Introduction</H2>
 
 The Auditory Modelling Toolbox (AMT) is a new Matlab toolbox intended to serve as a common ground for all auditory modelling in Matlab.<p>
@@ -39,6 +44,7 @@ You can read the <a href="doc/">documentation included in the M-files online</a>
 <li><a href="doc/using-git.pdf">Some notes on Git</a></li>
 </ul>
 
+</td></tr></table>
 
    <?require("footer.php");?>
 

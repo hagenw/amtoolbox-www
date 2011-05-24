@@ -7,7 +7,10 @@ body {
 }
 
 div.sidebar {
+  margin:10px; 
   font-size: small;
+  border:5px solid gray;
+  padding:10px;
 }
 
 div.navbar 
@@ -15,7 +18,7 @@ div.navbar
   margin-left: -5%;
   margin-right: -5%;
   color: #ffffff;
-  background: #00478e;
+  background: #929292;
 }
 
 div.fixedwidth {
@@ -27,7 +30,7 @@ div.fixedwidth {
 div.footer {
   margin-left: -5%;
   margin-right: -5%;
-  background: #00478e;
+  background: #929292;
 }
 
 a:link

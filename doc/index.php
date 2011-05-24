@@ -5,25 +5,23 @@
 <link rel="stylesheet" href="/amtoolbox.css" type="text/css">
 </head>
 <body>
-   <?php ini_set("include_path",".:/home/groups/c/ca/amtoolbox/htdocs/"); ?>
+   <?php ini_set("include_path",".:/home/groups/a/am/amtoolbox/htdocs/"); ?>
    <?php require("../topnav.php");?>
 
+<table><tr valign=top><td>
+<div class="sidebar">
+   <?php require("/home/groups/a/am/amtoolbox/htdocs/doc/docnav.php");?>
+</div></td><td>
+
 <h2>Online documentation</h2>
-The pages linked below are generated from the documentation in the M-files. This is the most complete, and up-to-date description of the Matlab files.<p>
 
-<ul>
-<li><a href="general/Contents.php">general</a> General routines.</li>
-<li><a href="filters/Contents.php">filters</a> Filters.</li>
-<li><a href="modelstages/Contents.php">modelstages</a> Model stages.</li>
-<li><a href="monaural/Contents.php">monaural</a> Monaural models.</li>
-<li><a href="binaural/Contents.php">binaural</a> Binaural models.</li>
-<li><a href="humandata/Contents.php">human data</a> Human data.</li>
-<li><a href="experiments/Contents.php">experiments</a> Experiments.</li>
-<li><a href="demos/Contents.php">demos</a> Demos.</li>
-<li><a href="signals/Contents.php">signals</a> Test signals.</li>
-</ul>
+<p>The online documentation is auto-generated from the documentation included in the M-files. This is the most complete, and up-to-date description of the toolbox.</p>
 
-The M-file documentation is also available as a <a href="amt.pdf">pdf file.</a><p>
+<p>Please access it using the menu on the left as the starting point.</p>
+
+<p>The M-file documentation is also available as a  <a href="amt.pdf">pdf file.</a></p>
+
+</td></tr></table>
 
    <?require("../footer.php");?>
 
