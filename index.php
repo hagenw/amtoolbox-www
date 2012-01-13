@@ -30,6 +30,27 @@ The toolbox is <a title="definitions of free and non-free software"
 href="http://www.gnu.org/philosophy/categories.html">Free</a>
 software, released under the GNU General Public License (GPLv3).<br>
 
+<H2><A NAME="features">Features and models</A></H2>
+
+<ul>
+
+<li>Several types of gammatone IIR filters (pole-zero and all-pole)</li>
+<li>RMS to dB conversion</li>
+<li>Inner hair cell envelope extraction models (Meddis, Dau, Bernstein etc.)</li>
+<li>Adaptation loops by Puschel used by Dau and Breebart</li>
+<li>Modulation filterbank from Dau et al. 1997a</li>
+<li>DRNL Dual Resonance Non-Linear filterbank</li>
+<li>Lindemann model complete with experiment and human data</li>
+<li>Dau1996, Dau1997 and Jepsen2008 monaural masking models</li>
+<li>Breebaart 2001 binaural detection model</li>
+<li>Culling 2010 binaural speech advantage model</li>
+<li>Langendijk & Bronkhorst 2002 localization in the median plane</li>
+<li>Human data from selected papers</li>
+<li>Experiments from selected papers</li>
+
+</ul>
+
+
 <H2><A NAME="documentation">Documentation</A></H2>
 
 You can read the <a href="doc/">documentation included in the M-files online</a><p>

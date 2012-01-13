@@ -9,21 +9,16 @@
 <title>PITU</title>
 <link rel="Bookmark" title="PITU Home Page" href="index.php">
 <link rel="Contents" href="index.php">
-<link rel="STYLESHEET" href="amtoolbox.css" type="text/css">
+<link rel="STYLESHEET" href="/amtoolbox.css" type="text/css">
 </head>
 <body TEXT="#000000" BGCOLOR="#FFFFFF">
 
-   <?require("topnav.php");?>
-
-<table><tr valign=top><td>
-<div class="sidebar">
-   <?php require("/home/groups/a/am/amtoolbox/htdocs/doc/docnav.php");?>
-</div></td><td>
+<?include("../topnav.php");?>
 
 <H2>Introduction</H2>
 This page is under construction.
 
-   <?require("footer.php");?>
+<?include("../footer.php");?>
 
 </body>
 </html>
