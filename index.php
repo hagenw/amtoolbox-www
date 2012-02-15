@@ -43,7 +43,7 @@ software, released under the GNU General Public License (GPLv3).<br>
 <li>Lindemann model complete with experiment and human data</li>
 <li>Dau1996, Dau1997 and Jepsen2008 monaural masking models</li>
 <li>Breebaart 2001 binaural detection model</li>
-<li>Culling 2010 binaural speech advantage model</li>
+<li>Jelfs 2011 binaural speech intelligibility advantage model</li>
 <li>Langendijk & Bronkhorst 2002 localization in the median plane</li>
 <li>Human data from selected papers</li>
 <li>Experiments from selected papers</li>

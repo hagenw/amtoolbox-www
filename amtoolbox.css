@@ -21,12 +21,6 @@ div.navbar
   background: #929292;
 }
 
-div.fixedwidth {
-  align: left;
-  valign: top;
-  max-width: 80em;
-}
-
 div.footer {
   margin-left: -5%;
   margin-right: -5%;
