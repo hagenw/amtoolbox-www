@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD html 4.0//EN">
 <html>
 <head>
-<TITLE>Documentation</TITLE>
+<TITLE>Download</TITLE>
 <link rel="stylesheet" href="amtoolbox.css" type="text/css">
 </head>
 <body>

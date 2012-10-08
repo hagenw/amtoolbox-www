@@ -57,7 +57,9 @@ You can read the <a href="doc/">documentation included in the M-files online</a>
 
 <H2><a name="development">Development</a></h2>
 
-     The toolbox is in a early stage of development. If you wish to contribute, please check out:<br>
+     The toolbox is always in development. The current state of the models and model stages in the toolbox is always described <a href="notes/amtnote006.pdf">here</a><p>.
+
+If you wish to contribute, please check out:<br>
 <ul>
 <li><a href="http://sourceforge.net/projects/amtoolbox">The development page</a></li>
 <li><a href="notes/amtnote003.pdf">The design guide</a></li>
