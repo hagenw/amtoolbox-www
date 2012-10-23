@@ -5,8 +5,7 @@
 <link rel="stylesheet" href="amtoolbox.css" type="text/css">
 </head>
 <body>
-   <?php ini_set("include_path",".:/home/groups/c/ca/amtoolbox/htdocs/"); ?>
-   <?php require("topnav.php");?>
+   <?php include("topnav.php");?>
 
 <h2>Downloading</h2>
 Get the latest version from the Sourceforge <a href="http://sourceforge.net/projects/amtoolbox/files/">download page</a>.
@@ -22,7 +21,7 @@ Access is possible by the <a href="http://amtoolbox.git.sourceforge.net/git/gitw
    git://amtoolbox.git.sourceforge.net/gitroot/amtoolbox/amtoolbox
 </pre><br>
 
-   <?require("footer.php");?>
+   <?include("footer.php");?>
 
 </body>
 </html>

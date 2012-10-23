@@ -13,7 +13,7 @@
 </head>
 <body TEXT="#000000" BGCOLOR="#FFFFFF">
 
-   <?require("topnav.php");?>
+   <?include("topnav.php");?>
 
 <table><tr valign=top><td>
 <div class="sidebar">
@@ -69,7 +69,7 @@ If you wish to contribute, please check out:<br>
 
 </td></tr></table>
 
-   <?require("footer.php");?>
+   <?include("footer.php");?>
 
 </body>
 </html>
