@@ -9,15 +9,16 @@
 <title>Auditory Modelling Toolbox</title>
 <link rel="Bookmark" title="AMTOOLBOX Home Page" href="index.php">
 <link rel="Contents" href="index.php">
-<link rel="STYLESHEET" href="amtoolbox.css" type="text/css">
+<link rel="STYLESHEET" href="include/amtoolbox.css" type="text/css">
 </head>
-<body TEXT="#000000" BGCOLOR="#FFFFFF">
+<body>
+<div id="page">
 
-   <?include("topnav.php");?>
+   <?include("include/topmenu.php");?>
 
 <table><tr valign=top><td>
 <div class="sidebar">
-   <?php require("/home/groups/a/am/amtoolbox/htdocs/doc/docnav.php");?>
+   <?php include("doc/docnav.php");?>
 </div></td><td>
 
 <H2>Introduction</H2>
@@ -41,7 +42,7 @@ software, released under the GNU General Public License (GPLv3).<br>
 <li>Modulation filterbank from Dau et al. 1997a</li>
 <li>DRNL Dual Resonance Non-Linear filterbank</li>
 <li>Lindemann model complete with experiment and human data</li>
-<li>Dau1996, Dau1997 and Jepsen2008 monaural masking models</li>
+<li>Dau1997 masking model</li>
 <li>Breebaart 2001 binaural detection model</li>
 <li>Jelfs 2011 binaural speech intelligibility advantage model</li>
 <li>Langendijk & Bronkhorst 2002 localization in the median plane</li>
@@ -69,7 +70,8 @@ If you wish to contribute, please check out:<br>
 
 </td></tr></table>
 
-   <?include("footer.php");?>
+   <?include("include/footer.php");?>
 
+</div>
 </body>
 </html>

@@ -10,19 +10,20 @@
 <title>AMToolbox Notes</title>
 <link rel="Bookmark" title="AMToolbox Notes" href="index.php">
 <link rel="Contents" href="index.php">
-<link rel="STYLESHEET" href="/amtoolbox.css" type="text/css">
+<link rel="STYLESHEET" href="../include/amtoolbox.css" type="text/css">
 </head>
 
-<body TEXT="#000000" BGCOLOR="#FFFFFF">
+<body>
+<div id="page">
 
-<?include("../topnav.php");?>
+<?include("../include/topmenu.php");?>
 
 <?include("description.php");?>
 
 <?include("by_type.php");?>
 
-<?include("../footer.php");?>
+<?include("../include/footer.php");?>
 
-
+</div>
 </body>
 </html>

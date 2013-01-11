@@ -9,11 +9,11 @@
 <title>PITU</title>
 <link rel="Bookmark" title="PITU Home Page" href="index.php">
 <link rel="Contents" href="index.php">
-<link rel="STYLESHEET" href="/amtoolbox.css" type="text/css">
+<link rel="STYLESHEET" href="../include/amtoolbox.css" type="text/css">
 </head>
-<body TEXT="#000000" BGCOLOR="#FFFFFF">
+<body  id="page">
 
-<?include("../topnav.php");?>
+<?include("../include/topmenu.php");?>
 
 <p>
 
@@ -51,9 +51,8 @@ Presented at: Forum Acusticum 2011, 2011, Aalborg, Denmark</p>
    <em>Proceedings of ISAAR 2011: Speech perception and auditory disorders, 3rd International Symposium on Auditory and Audiological Research</em>, August 2011, Nyborg, Denmark</p>
 
 
+<?include("../../include/footer.php");?>
 
-
-<?include("../footer.php");?>
-
+</div>
 </body>
 </html>

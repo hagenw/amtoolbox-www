@@ -2,15 +2,16 @@
 <html>
 <head>
 <title>Documentation</title>
-<link rel="stylesheet" href="/amtoolbox.css" type="text/css">
+<link rel="stylesheet" href="../include/amtoolbox.css" type="text/css">
 </head>
 <body>
-   <?php ini_set("include_path",".:/home/groups/a/am/amtoolbox/htdocs/"); ?>
-   <?php require("../topnav.php");?>
+<div id="page">
+
+   <?php include("../include/topmenu.php");?>
 
 <table><tr valign=top><td>
 <div class="sidebar">
-   <?php require("/home/groups/a/am/amtoolbox/htdocs/doc/docnav.php");?>
+   <?php include("docnav.php");?>
 </div></td><td>
 
 <h2>Online documentation</h2>
@@ -23,7 +24,8 @@
 
 </td></tr></table>
 
-   <?require("../footer.php");?>
+   <?include("../include/footer.php");?>
 
+</div>
 </body>
 </html>
