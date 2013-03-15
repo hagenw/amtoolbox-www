@@ -6,6 +6,7 @@
 <a href="/doc/modelstages/index.php">model stages</a><br>
 <a href="/doc/monaural/index.php">monaural</a><br>
 <a href="/doc/binaural/index.php">binaural</a><br>
+<a href="/doc/speech/index.php">speech</a><br>
 <a href="/doc/humandata/index.php">human data</a><br>
 <a href="/doc/hrtf/index.php">HRTF</a><br>
 <a href="/doc/experiments/index.php">experiments</a><br>

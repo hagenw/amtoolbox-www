@@ -7,7 +7,7 @@
       content="auditory, modelling, toolbox, matlab">
 <meta name="alias" content="http://amtoolbox.sourceforge.net/">
 <title>Auditory Modelling Toolbox</title>
-<link rel="Bookmark" title="AMTOOLBOX Home Page" href="index.php">
+<link rel="Bookmark" title="AMToolbox Home Page" href="index.php">
 <link rel="Contents" href="index.php">
 <link rel="STYLESHEET" href="include/amtoolbox.css" type="text/css">
 </head>
