@@ -7,7 +7,7 @@
 <table><tr>
 <td><div class="button"><a href="/">Home</a></div></td>
 <td><div class="button"><a href="/download.php">Download</a></div></td>
-<td><div class="button"><a href="mailto:amtoolbox-help@lists.sourceforge.net">Contact</a></div></td>
+<td><div class="button"><a href="/contact.php">Contact</a></div></td>
 <td><div class="button"><a href="/doc">Documentation</a></div></td>
 <td><div class="button"><a href="/notes">Notes</a></div></td>
 <td><div class="button"><a href="/pitu">PITU</a></div></td>
