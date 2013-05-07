@@ -1,9 +1,19 @@
-<div class="footer" align=center><table>
-<tr valign=middle><td>This project is hosted on</td><td>
-
-<a href="http://sourceforge.net/projects/amtoolbox"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=290281&amp;type=12" width="120" height="30" alt="Get Auditory Modelling Toolbox at SourceForge.net. Fast, secure and Free Open Source software downloads" /></a>
-
-</td></tr></table>
+<div class="footer" align=center>
+  <ul class="inline">
+    <li><a title="Technical University of Denmark" href="http://www.dtu.dk/centre/hea/English.aspx"><img src="img/partners/dtu.png"></a></li>
+    <li><a title="Austrian Academy of Sciences" href="http://www.kfs.oeaw.ac.at/index.php?lang=en"><img src="img/partners/oaw.png"></a></li>
+    <li><img src="img/partners/tu-berlin.png"></li>
+    <li><img src="img/partners/cardiff.png"></li>
+    <li><img src="img/partners/oldenburg.png"></li>
+    <li><img src="img/partners/eindhoven.png"></li>
+    <li><img src="img/partners/patras.png"></li>
+    <li><img src="img/partners/rensselaer.png"></li>
+    <li><img src="img/partners/lmu.png"></li>
+    <li><img src="img/partners/dresden.png"></li>
+    <li><img src="img/partners/rostock.png"></li>
+    <li><img src="img/partners/bochum.png"></li>
+    <li><img src="img/partners/aalto.png"></li>
+  </ul>
 </div>
 
 
@@ -19,3 +29,5 @@ piwikTracker.enableLinkTracking();
 } catch( err ) {}
 </script><noscript><p><img src="http://sourceforge.net/apps/piwik/amtoolbox/piwik.php?idsite=1" style="border:0" alt=""/></p></noscript>
 <!-- End Piwik Tag -->
+
+<!-- vim: set textwidth=120 ts=2 sw=2: -->
