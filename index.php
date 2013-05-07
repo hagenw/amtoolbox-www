@@ -100,8 +100,8 @@
       The Auditory Modelling Toolbox (AMT) is a new Matlab toolbox intended to
       serve as a common ground for all auditory modelling in Matlab/Octave.
       </p>
-      <p>AMT is developed by a several auditory research groups,
-      mainly situtated in Europe.</p>
+      <p>AMT is developed by several auditory research groups,
+      mainly situated in Europe.</p>
 
       <p>The toolbox is <a title="definitions of free and non-free software"
       href="http://www.gnu.org/philosophy/categories.html">Free</a>
@@ -114,27 +114,13 @@
 
     <div class="row-fluid">
       <div class="span4">
-        <H2>Features and models</H2>
+        <H2>Features</H2>
 
-        <ul>
+        AMT provide a complete model chain for the auditory hearing system, ranging from HRTFs to model the outer ear, different filter banks and inner hair cell models, 
+        adaptation loops, binaural processing, up to speech intelligibility. In addition to the models presented with references, human data from experiments and scripts
+        to reproduce figures from papers are included.
 
-          <li>Several types of gammatone IIR filters (pole-zero and all-pole)</li>
-          <li>RMS to dB conversion</li>
-          <li>Inner hair cell envelope extraction models (Meddis, Dau, Bernstein etc.)</li>
-          <li>Adaptation loops by Puschel used by Dau and Breebart</li>
-          <li>Modulation filterbank from Dau et al. 1997a</li>
-          <li>DRNL Dual Resonance Non-Linear filterbank</li>
-          <li>Lindemann model complete with experiment and human data</li>
-          <li>Dau1997 masking model</li>
-          <li>Breebaart 2001 binaural detection model</li>
-          <li>Jelfs 2011 binaural speech intelligibility advantage model</li>
-          <li>Langendijk & Bronkhorst 2002 localization in the median plane</li>
-          <li>Human data from selected papers</li>
-          <li>Experiments from selected papers</li>
-
-        </ul>
-
-        Here we should put a link to a site listening all models and there usage.
+        <p><button class="btn">List of all included models</button></p>
 
       </div><!--</span4>-->
 
@@ -154,7 +140,7 @@
           <li><a href="notes/amtnote003.pdf">The design guide</a></li>
           <li><a href="notes/amtnote001.pdf">Using Git for the project</a></li>
         </ul>
-        and in general, have a look a the AMToolbox <a href="notes/">notes</a>.
+        and in general, have a look at the AMToolbox <a href="notes/">notes</a>.
       </div><!--</span4>-->
 
     </div><!--</row-fluid>-->
