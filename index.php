@@ -97,7 +97,7 @@
       <p><img src="img/jumbotron/roenne.png"></p>
       <!--<h1>Sketch with the models</h1>-->
       <p class="lead">
-      The Auditory Modelling Toolbox (AMT) is a new Matlab/Octave toolbox intended to
+      The Auditory Modelling Toolbox (AMT) is a new Matlab toolbox intended to
       serve as a common ground for all auditory modelling in Matlab/Octave.
       </p>
       <p>AMT is developed by a several auditory research groups,
@@ -107,7 +107,7 @@
       href="http://www.gnu.org/philosophy/categories.html">Free</a>
     software, released under the GNU General Public License (GPLv3).</p>
 
-      <a class="btn btn-large btn-success" href="#">Get started today</a>
+      <a class="btn btn-large btn-success" href="https://sourceforge.net/projects/amtoolbox/files/latest/download?source=files">Download AMT</a>
     </div>
 
     <hr>
@@ -133,10 +133,13 @@
           <li>Experiments from selected papers</li>
 
         </ul>
+
+        Here we should put a link to a site listening all models and there usage.
+
       </div><!--</span4>-->
 
       <div class="span4">
-        <H2>Documentation</H2>
+        <h2>Documentation</h2>
 
         You can read the <a href="doc/">documentation included in the M-files online</a><p>
       </div><!--</span4>-->
