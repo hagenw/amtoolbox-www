@@ -1,33 +1,66 @@
- <!DOCTYPE html PUBLIC "-//W3C//DTD html 4.0//EN">
-<html>
-<head>
-<TITLE>Contact</TITLE>
-<link rel="stylesheet" href="include/amtoolbox.css" type="text/css">
+<!doctype html public "-//W3C//DTD html 4.0//EN">
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="The Auditory Modelling Toolbox">
+  <meta name="keywords"
+    content="auditory, modelling, toolbox, matlab">
+  <meta name="alias" content="http://amtoolbox.sourceforge.net/">
+  <title>Auditory Modelling Toolbox</title>
+  <link rel="Bookmark" title="AMToolbox Home Page" href="index.php">
+  <link rel="Contents" href="index.php">
+  <!-- Styles -->
+  <!--<link rel="STYLESHEET" href="include/amtoolbox.css" type="text/css">-->
+  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="css/style.css" type="text/css">
+  <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+
+  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+  <![endif]-->
 </head>
+
 <body>
-<div id="page">
 
-   <?include("include/topmenu.php");?>
 
-<table><tr valign=top><td>
-   <?php include("include/docnav.php");?>
-</td><td>
+  <div class="container">
+    
+    <!-- nav header -->
+    <div class="masthead">
+      <?include("include/topmenu.php");?>
+    </div>
 
-<h2>Help me!</h2>
+    <!-- main page -->
+    <div class="row-fluid">
+      <div class="span2">
+      </div><!--</span2>-->
 
-If you have questions about AMToolbox, then please send an email to the <a href="mailto:amtoolbox-help@lists.sourceforge.net">mailing list</a>. You don't have to be a member of the mailing list to send a message.
+      <div class="span8">
+          
+        <br/>
+        <h3>Help me!</h3>
+        <p>If you have questions about AMToolbox, then please send an email to the <a href="mailto:amtoolbox-help@lists.sourceforge.net"><i class="icon-envelope"></i> mailing list</a>.
+        You don't have to be a member of the mailing list to send a message.</p>
 
-<h2>I want to report a bug</h2>
+        <br/>
+        <h3>I want to report a bug</h3>
+        <p>If you think you have found a bug in AMToolbox, then please check out the
+        <a href="https://sourceforge.net/p/amtoolbox/bugs/">bug tracker</a> and
+        put it in there. The bug tracker contains a list of all current issues
+        with AMToolbox and all feature request for the future.<p/>
 
-If you think you have found a bug in AMToolbox, then please check out the
-<a href="https://sourceforge.net/p/amtoolbox/bugs/">bug tracker</a> and
-put it in there. The bug tracker contains a list of all current issues
-with AMToolbox and all feature request for the future.
+      </div><!--</span8>-->
 
-</td></tr></table>
+    </div><!--</row-fluid>-->
 
-   <?include("include/footer.php");?>
+    <!-- footer -->
+    <?include("footer.php");?>
+  
+  </div><!--</container>-->
 
-</div>
 </body>
 </html>
+<!-- vim: set textwidth=120 ts=2 sw=2: -->
