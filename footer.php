@@ -1,3 +1,5 @@
+<hr>
+
 <div class="footer" align=center>
   <ul class="inline">
     <li><a title="Technical University of Denmark" href="http://www.dtu.dk/centre/hea/English.aspx"><img src="img/partners/dtu.png"></a></li>
