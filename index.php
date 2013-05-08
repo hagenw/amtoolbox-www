@@ -113,34 +113,34 @@
     <hr>
 
     <div class="row-fluid">
+      
       <div class="span4">
         <H2>Features</H2>
-
-        AMT provide a complete model chain for the auditory hearing system, ranging from HRTFs to model the outer ear, different filter banks and inner hair cell models, 
+        <p>AMT provide a complete model chain for the auditory hearing system, ranging from HRTFs to model the outer ear, different filter banks and inner hair cell models, 
         adaptation loops, binaural processing, up to speech intelligibility. In addition to the models presented with references, human data from experiments and scripts
-        to reproduce figures from papers are included.
-
+        to reproduce figures from papers are included.</p>
         <p><button class="btn">List of all included models</button></p>
-
       </div><!--</span4>-->
 
       <div class="span4">
         <h2>Documentation</h2>
-
-        You can read the <a href="doc/">documentation included in the M-files online</a><p>
+        <p>The models and functions all come with a help messages and references in the M-files.
+        You can read the <a href="doc/">documentation included in the M-files online</a>.
+        We further provide a tutorial how to start with the toolbox.</p>
+        <p><button class="btn">Howto start with the Toolbox</button></p>
       </div><!--</span4>-->
+      
       <div class="span4">
         <H2>Development</h2>
-
-             The toolbox is always in development. The current state of the models and model stages in the toolbox is always described <a href="notes/amtnote006.pdf">here</a><p>.
-
-        If you wish to contribute, please check out:<br>
+        <p>The toolbox is always in development. The current state of the models and model stages in the toolbox is always described
+        <a href="notes/amtnote006.pdf">here</a>.</p>
+        <p>If you wish to contribute, please check out:<br>
         <ul>
-          <li><a href="http://sourceforge.net/projects/amtoolbox">The development page</a></li>
           <li><a href="notes/amtnote003.pdf">The design guide</a></li>
           <li><a href="notes/amtnote001.pdf">Using Git for the project</a></li>
         </ul>
-        and in general, have a look at the AMToolbox <a href="notes/">notes</a>.
+        and in general, have a look at the AMToolbox <a href="notes/">notes</a>.</p>
+        <p><a href="http://sourceforge.net/projects/amtoolbox"><button class="btn">Go to Developement page</button></a></p>
       </div><!--</span4>-->
 
     </div><!--</row-fluid>-->
