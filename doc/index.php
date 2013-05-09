@@ -35,20 +35,37 @@
 
 
     <div class="row-fluid">
+
       <div class="span2">
         <?php include("docnav.php");?>
       </div><!--</span3>-->
-      <div class="span10">
 
-      <h2>Online documentation</h2>
+      <div class="span8">
 
-        <p>The online documentation is auto-generated from the documentation included in the M-files. This is the most complete, and up-to-date description of the toolbox.</p>
-
+        <h3>Online documentation</h3>
+        <p>On this site you will find an auto-generated documentation of all functions and models included in the Toolbox
+        from the help included in the M-files.</p>
+        <p>The online documentation is auto-generated from the documentation included in the M-files.
+        This is the most complete, and up-to-date description of the toolbox.</p>
         <p>Please access it using the menu on the left as the starting point.</p>
-
         <p>The M-file documentation is also available as a  <a href="amt.pdf">pdf file.</a></p>
+        <p>Further you may have a look at these additional documentation:
+        <ul>
+          <li><a href="doc/tutorial.php">Beginners Tutorial</a></li>
+          <li><a href="">List of included models</a></li>
+          <li><a href="">Notes (PDF documents with additional information, publications, ...)</a></li>
+        </ul>
+        </p>
+      </div><!--</span8>-->
 
-   <?include("../include/footer.php");?>
+      <div class="span2">
+      </div><!--</span2>-->
+
+    </div><!--</row-fluid>-->
+
+    <?include("../footer.php");?>
+
+  </div><!--</container>-->
 
 </div>
 </body>
