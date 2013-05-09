@@ -69,7 +69,7 @@ amtstart;</pre>
     </div>
 
     <!-- footer -->
-   <?include("footer.php");?>
+   <?include("include/footer.php");?>
 
   </div>
 

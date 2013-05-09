@@ -57,7 +57,7 @@
     </div><!--</row-fluid>-->
 
     <!-- footer -->
-    <?include("footer.php");?>
+    <?include("include/footer.php");?>
   
   </div><!--</container>-->
 

@@ -63,7 +63,8 @@
 
     </div><!--</row-fluid>-->
 
-    <?include("../footer.php");?>
+    <!-- footer -->
+    <?include("../include/footer.php");?>
 
   </div><!--</container>-->
 
