@@ -2,19 +2,19 @@
 
 <div class="footer" align=center>
   <ul class="inline">
-    <li><a title="Technical University of Denmark" href="http://www.dtu.dk/centre/hea/English.aspx"><img src="img/partners/dtu.png"></a></li>
-    <li><a title="Austrian Academy of Sciences" href="http://www.kfs.oeaw.ac.at/index.php?lang=en"><img src="img/partners/oaw.png"></a></li>
-    <li><img src="img/partners/tu-berlin.png"></li>
-    <li><img src="img/partners/cardiff.png"></li>
-    <li><img src="img/partners/oldenburg.png"></li>
-    <li><img src="img/partners/eindhoven.png"></li>
-    <li><img src="img/partners/patras.png"></li>
-    <li><img src="img/partners/rensselaer.png"></li>
-    <li><img src="img/partners/lmu.png"></li>
-    <li><img src="img/partners/dresden.png"></li>
-    <li><img src="img/partners/rostock.png"></li>
-    <li><img src="img/partners/bochum.png"></li>
-    <li><img src="img/partners/aalto.png"></li>
+    <li><a title="Technical University of Denmark" href="http://www.dtu.dk/centre/hea/English.aspx"><img src="/img/partners/dtu.png"></a></li>
+    <li><a title="Austrian Academy of Sciences" href="http://www.kfs.oeaw.ac.at/index.php?lang=en"><img src="/img/partners/oaw.png"></a></li>
+    <li><img src="/img/partners/tu-berlin.png"></li>
+    <li><img src="/img/partners/cardiff.png"></li>
+    <li><img src="/img/partners/oldenburg.png"></li>
+    <li><img src="/img/partners/eindhoven.png"></li>
+    <li><img src="/img/partners/patras.png"></li>
+    <li><img src="/img/partners/rensselaer.png"></li>
+    <li><img src="/img/partners/lmu.png"></li>
+    <li><img src="/img/partners/dresden.png"></li>
+    <li><img src="/img/partners/rostock.png"></li>
+    <li><img src="/img/partners/bochum.png"></li>
+    <li><img src="/img/partners/aalto.png"></li>
   </ul>
 </div>
 
