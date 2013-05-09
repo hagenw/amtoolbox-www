@@ -8,14 +8,14 @@
   <meta name="keywords"
     content="auditory, modelling, toolbox, matlab">
   <meta name="alias" content="http://amtoolbox.sourceforge.net/">
-  <title>Documentation</title>
-  <link rel="Bookmark" title="AMToolbox Home Page" href="index.php">
-  <link rel="Contents" href="index.php">
+  <title>Auditory Modelling Toolbox</title>
+  <link rel="Bookmark" title="AMToolbox Home Page" href="/index.php">
+  <link rel="Contents" href="/index.php">
   <!-- Styles -->
   <!--<link rel="STYLESHEET" href="include/amtoolbox.css" type="text/css">-->
-  <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
-  <link rel="stylesheet" href="../css/style.css" type="text/css">
-  <link href="../css/bootstrap-responsive.css" rel="stylesheet">
+  <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+  <link rel="stylesheet" href="/css/bootstrap-responsive.css" type="text/css">
 
   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
