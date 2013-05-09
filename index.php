@@ -60,7 +60,7 @@
         <p>AMT provide a complete model chain for the auditory hearing system, ranging from HRTFs to model the outer ear, different filter banks and inner hair cell models, 
         adaptation loops, binaural processing, up to speech intelligibility. In addition to the models presented with references, human data from experiments and scripts
         to reproduce figures from papers are included.</p>
-        <p><button class="btn">List of all included models</button></p>
+        <p><a href="models.php"><button class="btn">List of all included models</button></a></p>
       </div><!--</span4>-->
 
       <div class="span4">
