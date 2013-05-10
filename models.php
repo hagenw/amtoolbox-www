@@ -35,10 +35,8 @@
 
     <!-- main page -->
     <div class="row-fluid">
-      <div class="span2">
-      </div><!--</span2>-->
 
-      <div class="span10">
+      <div class="span12">
           
         <br/>
         <h3>Models included in AMT</h3>
@@ -196,11 +194,6 @@
                 dau1996qmeI
               </td>
             </tr>
-            <tr class="info">
-              <td><strong>Monaural models</strong></td>
-              <td></td>
-              <td></td>
-            </tr>
             <tr>
               <td>
                 <strong>Adaptation</strong> <br/>
@@ -215,6 +208,11 @@
                 dau1996qmeI <br/>
                 breebaart2001a
               </td>
+            </tr>
+            <tr class="info">
+              <td><strong>Monaural models</strong></td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
               <td>
@@ -438,7 +436,7 @@
           </tbody>
         </table>
 
-      </div><!--</span10>-->
+      </div><!--</span12>-->
 
     </div><!--</row-fluid>-->
 
