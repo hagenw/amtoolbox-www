@@ -38,7 +38,7 @@
       <div class="span2">
       </div><!--</span2>-->
 
-      <div class="span8">
+      <div class="span10">
           
         <br/>
         <h3>Models included in AMT</h3>
@@ -438,7 +438,7 @@
           </tbody>
         </table>
 
-      </div><!--</span8>-->
+      </div><!--</span10>-->
 
     </div><!--</row-fluid>-->
 
