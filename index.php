@@ -71,7 +71,7 @@
         <p>The models and functions all come with a help messages and references in the M-files.
         You can read the <a href="doc/">documentation included in the M-files online</a>.
         We further provide a tutorial how to start with the toolbox.</p>
-        <p><button class="btn">Howto start with the Toolbox</button></p>
+        <p><a href="doc/tutorial.php"><button class="btn">Beginners tutorial</button></a></p>
       </div><!--</span4>-->
       
       <div class="span4">
