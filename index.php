@@ -6,14 +6,12 @@
     
     <!-- nav header -->
     <div class="masthead">
-      <?php
-        topmenu("Home");
-      ?>
+      <?php topmenu("Home"); ?>
     </div>
 
 
     <div class="jumbotron">
-      <p><img src="<?php baseurl();?>/img/jumbotron/roenne.png"></p>
+      <p><img src="<?php echo baseurl(); ?>/img/jumbotron/roenne.png"></p>
       <!--<h1>Sketch with the models</h1>-->
       <p class="lead">
       The Auditory Modelling Toolbox (AMT) is a new Matlab toolbox intended to

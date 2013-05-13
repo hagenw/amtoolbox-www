@@ -1,15 +1,19 @@
 <?php
 
 /* setting the base url of the web site */
+function returnbaseurl()
+{
+    return "http://audio.qu.tu-berlin.de/amtoolbox";
+}
 function baseurl()
 {
-    return "http://localhost";
+    echo returnbaseurl();
 }
 
 /* getting the top navigation menu */
 function topmenu($tab)
 {
-    $url=baseurl();
+    $url=returnbaseurl();
     echo "<h3 class=\"muted\">The Auditory Modelling Toolbox</h3>";
     echo "<div class=\"navbar\">";
     echo "  <div class=\"navbar-inner\">";
