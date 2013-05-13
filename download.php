@@ -1,39 +1,12 @@
-<!doctype html public "-//W3C//DTD html 4.0//EN">
-<html lang="en">
-  <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description"
-    content="The Auditory Modelling Toolbox">
-  <meta name="keywords"
-    content="auditory, modelling, toolbox, matlab">
-  <meta name="alias" content="http://amtoolbox.sourceforge.net/">
-  <title>Auditory Modelling Toolbox</title>
-  <link rel="Bookmark" title="AMToolbox Home Page" href="/index.php">
-  <link rel="Contents" href="/index.php">
-  <!-- Styles -->
-  <!--<link rel="STYLESHEET" href="include/amtoolbox.css" type="text/css">-->
-  <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">
-  <link rel="stylesheet" href="/css/style.css" type="text/css">
-  <link rel="stylesheet" href="/css/bootstrap-responsive.min.css" type="text/css">
-
-  <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-  <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-  <![endif]-->
-</head>
+<?php include("header.php"); ?>
 
 <body>
-
 
   <div class="container">
     
     <!-- nav header -->
     <div class="masthead">
-      <?php
-        include("functions.php");
-        topmenu("Download");
-      ?>
+      <?php topmenu("Download"); ?>
     </div>
 
     <!-- main page -->
@@ -59,7 +32,7 @@
         <pre>ltfatstart;
 amtstart;</pre>
         which will add all needed subdirectories to your path.</p>
-        <p>After the installation you want to have a look at the <a href="doc/tutorial.php">beginners tutorial</a>.</p>
+        <p>After the installation you want to have a look at the <a href="<?php baseurl(); ?>/doc/tutorial.php">beginners tutorial</a>.</p>
 
         <br/>
         <h3>Development source</h3>
@@ -72,7 +45,7 @@ amtstart;</pre>
     </div>
 
     <!-- footer -->
-   <?include("include/footer.php");?>
+    <?php include("footer.php"); ?>
 
   </div>
 
