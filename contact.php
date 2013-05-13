@@ -30,7 +30,10 @@
     
     <!-- nav header -->
     <div class="masthead">
-      <?include("include/topmenu.php");?>
+      <?php
+        include("functions.php");
+        topmenu("Contact");
+      ?>
     </div>
 
     <!-- main page -->
