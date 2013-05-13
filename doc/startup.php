@@ -46,24 +46,34 @@
       <div class="span8">
 
         <br/>
-        <h3>Online documentation</h3>
-        <p>On this site you will find an auto-generated documentation of all functions and models included in the Toolbox
-        from the help included in the M-files.</p>
-        <p>The online documentation is auto-generated from the documentation included in the M-files.
-        This is the most complete, and up-to-date description of the toolbox.</p>
-        <p>Please access it using the menu on the left as the starting point.</p>
-        <p>The M-file documentation is also available as a  <a href="amt.pdf">pdf file.</a></p>
-        <p>Further you may have a look at these additional documentation:
-        <ul class="inline">
-          <li><a href="tutorial.php"><button class="btn btn-large">Beginners Tutorial</button></a></li>
-          <li><a href="/models.php"><button class="btn btn-large">List of included models</button></a></li>
+        <h3>AMT - Base routines</h3>
+        <p>The AMT team, 2012 - 2013.</p>
+        <h4>Basic routines</h4>
+        <blockquote>
+        <ul class="simple">
+          <li><span class="linkrole"><a href="/doc/amtstart.php">amtstart</a></span> - Start the toolbox</li>
+          <li><span class="linkrole"><a href="/doc/amthelp.php">amthelp</a></span> - Help</li>
+          <li><span class="linkrole"><a href="/doc/amtbasepath.php">amtbasepath</a></span> - Return the base path</li>
+          <li><span class="linkrole"><a href="/doc/amtmex.php">amtmex</a></span> - Compile Mex/Oct interfaces</li>
+          <li><span class="linkrole"><a href="/doc/amtredofile.php">amtredofile</a></span> - Utility to work with cached files</li>
         </ul>
-        </p>
-        <p>Or you may have a look in to the <a href="/notes">Notes</a> section where you will find different PDF documents like publications
-        or other additional information regarding single models.</p>
+        </blockquote>
+        <p>For help, bug reports, suggestions etc. please send email to
+        <a class="reference external" href="mailto:amtoolbox-help&#64;lists.sourceforge.net">amtoolbox-help&#64;lists.sourceforge.net</a></p>
+      
       </div><!--</span8>-->
-
+      
       <div class="span2">
+
+        <ul class="nav nav-list doc-sidenav affix-top">
+          <li><a href=""><b><u>Subtopics:</u></b></a></li>
+          <li><a href=""><b>Basic routines</b></a></li>
+          <li><a href="amtstart.php"><i class="icon-chevron-left"></i>amtstart</a></li>
+          <li><a href="amthelp.php"><i class="icon-chevron-left"></i>amthelp</a></li>
+          <li><a href="amtbasepath.php"><i class="icon-chevron-left"></i>amtbasepath</a></li>
+          <li><a href="amtmex.php"><i class="icon-chevron-left"></i>amtmex</a></li>
+          <li><a href="amtredofile.php"><i class="icon-chevron-left"></i>amtredofile</a></li>
+        </ul>
       </div><!--</span2>-->
 
     </div><!--</row-fluid>-->
