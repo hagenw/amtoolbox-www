@@ -4,7 +4,7 @@
   <ul class="inline">
     <li><a title="Technical University of Denmark" href="http://www.dtu.dk/centre/hea/English.aspx"><img src="<?php baseurl(); ?>/img/partners/dtu.png"></a></li>
     <li><a title="Austrian Academy of Sciences" href="http://www.kfs.oeaw.ac.at/index.php?lang=en"><img src="<?php baseurl(); ?>/img/partners/oaw.png"></a></li>
-    <li><a title="Technical University Berlin" href="http://www.tu-berlin.de"><img src="<?php baseurl(); ?>/img/partners/tu-berlin.png"></a></li>
+    <li><a title="Technical University Berlin" href="http://www.aipa.tu-berlin.de"><img src="<?php baseurl(); ?>/img/partners/tu-berlin.png"></a></li>
     <li><a title="Cardiff University" href="http://psych.cf.ac.uk/research/perception_action/index.html"><img src="<?php baseurl(); ?>/img/partners/cardiff.png"></a></li>
     <li><a title="Carl-von-Ossietzky University Oldenburg" href="http://medi.uni-oldenburg.de/"><img src="<?php baseurl(); ?>/img/partners/oldenburg.png"></a></li>
     <li><a title="Technical University Eindhoven" href="http://www.tue.nl/en/employee/ep/e/d/ep-uid/19980379/"><img src="<?php baseurl(); ?>/img/partners/eindhoven.png"></a></li>
