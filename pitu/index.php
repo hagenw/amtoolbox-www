@@ -68,7 +68,7 @@
     </div><!--</row-fluid>-->
 
     <!-- footer -->
-    <?php include("../include/footer.php"); ?>
+    <?php include("../footer.php"); ?>
 
   </div><!--</container>-->
 
