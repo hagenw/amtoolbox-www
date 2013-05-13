@@ -4,17 +4,20 @@
   <ul class="inline">
     <li><a title="Technical University of Denmark" href="http://www.dtu.dk/centre/hea/English.aspx"><img src="/img/partners/dtu.png"></a></li>
     <li><a title="Austrian Academy of Sciences" href="http://www.kfs.oeaw.ac.at/index.php?lang=en"><img src="/img/partners/oaw.png"></a></li>
-    <li><img src="/img/partners/tu-berlin.png"></li>
-    <li><img src="/img/partners/cardiff.png"></li>
-    <li><img src="/img/partners/oldenburg.png"></li>
-    <li><img src="/img/partners/eindhoven.png"></li>
-    <li><img src="/img/partners/patras.png"></li>
-    <li><img src="/img/partners/rensselaer.png"></li>
-    <li><img src="/img/partners/lmu.png"></li>
-    <li><img src="/img/partners/dresden.png"></li>
-    <li><img src="/img/partners/rostock.png"></li>
-    <li><img src="/img/partners/bochum.png"></li>
-    <li><img src="/img/partners/aalto.png"></li>
+    <li><a title="Technical University Berlin" href="http://www.tu-berlin.de"><img src="/img/partners/tu-berlin.png"></a></li>
+    <li><a title="Cardiff University" href="http://psych.cf.ac.uk/research/perception_action/index.html"><img src="/img/partners/cardiff.png"></a></li>
+    <li><a title="Carl-von-Ossietzky University Oldenburg" href="http://medi.uni-oldenburg.de/"><img src="/img/partners/oldenburg.png"></a></li>
+    <li><a title="Technical University Eindhoven" href="http://www.tue.nl/en/employee/ep/e/d/ep-uid/19980379/"><img src="/img/partners/eindhoven.png"></a></li>
+    <li><a title="University of Patras" href="http://www.wcl.ece.upatras.gr/audiogroup/index_en.html"><img src="/img/partners/patras.png"></a></li>
+    <li><a title="Rensselaer Polytechnic Institute" href="http://symphony.arch.rpi.edu/acoustics/"><img src="/img/partners/rensselaer.png"></a></li>
+    <li><a title="Ludwig-Maximilians-Universität München" href="http://www.synergy-munich.de/index.html"><img src="/img/partners/lmu.png"></a></li>
+    <li><a title="Technical University Dresden" href="http://www.ias.et.tu-dresden.de/ias/index.php?id=546"><img src="/img/partners/dresden.png"></a></li>
+    <li><a title="University Rostock" href="http://www.int.uni-rostock.de/?L=0"><img src="/img/partners/rostock.png"></a></li>
+    <li><a title="Ruhr-Universität Bochum" href="http://www.ruhr-uni-bochum.de/ika/"><img src="/img/partners/bochum.png"></a></li>
+    <li><a title="Aalto University" href="http://www.acoustics.hut.fi/"><img src="/img/partners/aalto.png"></a></li>
+    <li><a title="Boston University" href="http://www.bu.edu/hrc/"><img src="/img/partners/boston.png"></a></li>
+    <li><a title="Université Pierre et Marie Curie Paris 6" href="http://www.isir.upmc.fr/"><img src="/img/partners/paris.png"></a></li>
+    <li><a title="Université de Toulouse" href="http://www.laas.fr/RAP/"><img src="/img/partners/toulouse.png"></a></li>
   </ul>
 </div>
 
