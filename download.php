@@ -59,7 +59,7 @@
         <pre>ltfatstart;
 amtstart;</pre>
         which will add all needed subdirectories to your path.</p>
-        <p>After the installation you want to have a look at the <a href="doc/tutorial.php">beginner tutorial</a>.</p>
+        <p>After the installation you want to have a look at the <a href="doc/tutorial.php">beginners tutorial</a>.</p>
 
         <br/>
         <h3>Development source</h3>
