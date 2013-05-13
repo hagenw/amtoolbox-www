@@ -53,12 +53,13 @@
         <p>Please access it using the menu on the left as the starting point.</p>
         <p>The M-file documentation is also available as a  <a href="amt.pdf">pdf file.</a></p>
         <p>Further you may have a look at these additional documentation:
-        <ul>
-          <li><a href="doc/tutorial.php">Beginners Tutorial</a></li>
-          <li><a href="">List of included models</a></li>
-          <li><a href="">Notes (PDF documents with additional information, publications, ...)</a></li>
+        <ul class="inline">
+          <li><a href="tutorial.php"><button class="btn btn-large">Beginners Tutorial</button></a></li>
+          <li><a href="/models.php"><button class="btn btn-large">List of included models</button></a></li>
         </ul>
         </p>
+        <p>Or you may have a look in to the <a href="/notes">Notes</a> section where you will find different PDF documents like publications
+        or other additional information regarding single models.</p>
       </div><!--</span8>-->
 
       <div class="span2">
