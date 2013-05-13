@@ -38,20 +38,15 @@
 
     <!-- main page -->
     <div class="row-fluid">
-      <div class="span2">
-      </div><!--</span2>-->
 
-      <div class="span8">
+      <div class="span12">
           
         <br/>
         <?include("description.php");?>
 
         <!-- Table with entries -->
         <?include("by_number.php");?>
-      </div><!--</span8>-->
-
-      <div class="span2">
-      </div><!--</span2>-->
+      </div><!--</span12>-->
 
     </div><!--</row-fluid>-->
 
